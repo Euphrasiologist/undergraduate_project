@@ -13,6 +13,8 @@ This is a template to get you started for your projects. Below is a description 
 
 ## The README file
 
+Add some text here.
+
 Is a file which renders nicely on GitHub and tells the user (and your future selves) what you did. Include details like:
 
 - Title of your project (replace the "ARU undergraduate project template" at the top)
